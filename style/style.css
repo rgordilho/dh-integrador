@@ -1,0 +1,11 @@
+.painel-login{
+    border: 2px solid rgba(180, 180, 180, 0.5);
+    padding: 2em;
+    border-radius: 7px;
+}
+.container-form{
+    margin-top: 2em;
+}
+.forgot{
+    margin-bottom: 1.5em;
+}
